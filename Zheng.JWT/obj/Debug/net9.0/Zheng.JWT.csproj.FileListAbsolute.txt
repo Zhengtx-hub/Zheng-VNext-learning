@@ -1,0 +1,15 @@
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.JWT/bin/Debug/net9.0/Zheng.JWT.deps.json
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.JWT/bin/Debug/net9.0/Zheng.JWT.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.JWT/bin/Debug/net9.0/Zheng.JWT.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.JWT/bin/Debug/net9.0/Zheng.Commons.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.JWT/bin/Debug/net9.0/Zheng.Commons.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.JWT/obj/Debug/net9.0/Zheng.JWT.csproj.AssemblyReference.cache
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.JWT/obj/Debug/net9.0/Zheng.JWT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.JWT/obj/Debug/net9.0/Zheng.JWT.AssemblyInfoInputs.cache
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.JWT/obj/Debug/net9.0/Zheng.JWT.AssemblyInfo.cs
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.JWT/obj/Debug/net9.0/Zheng.JWT.csproj.CoreCompileInputs.cache
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.JWT/obj/Debug/net9.0/Zheng.JWT.csproj.Up2Date
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.JWT/obj/Debug/net9.0/Zheng.JWT.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.JWT/obj/Debug/net9.0/refint/Zheng.JWT.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.JWT/obj/Debug/net9.0/Zheng.JWT.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.JWT/obj/Debug/net9.0/ref/Zheng.JWT.dll

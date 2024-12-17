@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "dgSpecHash": "ddgOrtof888=",
+  "success": false,
+  "projectFilePath": "/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/MediaEncoder.Domain/MediaEncoder.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/zhengtianxiang/.nuget/packages/asmresolver/4.11.2/asmresolver.4.11.2.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/asmresolver.dotnet/4.11.2/asmresolver.dotnet.4.11.2.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/asmresolver.pe/4.11.2/asmresolver.pe.4.11.2.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/asmresolver.pe.file/4.11.2/asmresolver.pe.file.4.11.2.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/fluentvalidation/11.11.0/fluentvalidation.11.11.0.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/system.text.json/6.0.4/system.text.json.6.0.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project '/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/MediaEncoder.Domain/Microsoft.Extensions.DependencyInjection.Abstrations'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/MediaEncoder.Domain/Microsoft.Extensions.DependencyInjection.Abstrations",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project '/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/Zheng.DomainCommons/Zheng.EventBus.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/Zheng.DomainCommons/Zheng.EventBus.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

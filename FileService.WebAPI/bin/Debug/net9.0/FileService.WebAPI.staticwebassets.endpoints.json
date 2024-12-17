@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "index.dyh98hprla.html",
+      "AssetFile": "index.html.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.037037037037"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6sYjRxLJt3P+f4LQ9RioJEXyoK/N2t4ysjryolWdcX0=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2wBBOfNd3N78F0n170RZ54qrazTEQdvtK33OtOk72/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 May 2023 12:46:56 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dyh98hprla"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2wBBOfNd3N78F0n170RZ54qrazTEQdvtK33OtOk72/A="
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        }
+      ]
+    },
+    {
+      "Route": "index.dyh98hprla.html",
+      "AssetFile": "index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2wBBOfNd3N78F0n170RZ54qrazTEQdvtK33OtOk72/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 May 2023 12:46:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dyh98hprla"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2wBBOfNd3N78F0n170RZ54qrazTEQdvtK33OtOk72/A="
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        }
+      ]
+    },
+    {
+      "Route": "index.dyh98hprla.html.gz",
+      "AssetFile": "index.html.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6sYjRxLJt3P+f4LQ9RioJEXyoK/N2t4ysjryolWdcX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 May 2023 12:46:56 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dyh98hprla"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6sYjRxLJt3P+f4LQ9RioJEXyoK/N2t4ysjryolWdcX0="
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "index.html.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.037037037037"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6sYjRxLJt3P+f4LQ9RioJEXyoK/N2t4ysjryolWdcX0=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2wBBOfNd3N78F0n170RZ54qrazTEQdvtK33OtOk72/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 May 2023 12:46:56 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2wBBOfNd3N78F0n170RZ54qrazTEQdvtK33OtOk72/A="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2wBBOfNd3N78F0n170RZ54qrazTEQdvtK33OtOk72/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 May 2023 12:46:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2wBBOfNd3N78F0n170RZ54qrazTEQdvtK33OtOk72/A="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "index.html.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6sYjRxLJt3P+f4LQ9RioJEXyoK/N2t4ysjryolWdcX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 May 2023 12:46:56 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6sYjRxLJt3P+f4LQ9RioJEXyoK/N2t4ysjryolWdcX0="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{9808AD56-61CE-4DBE-B63A-2E1FEFE893E8}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Zheng-VNext" expanded="True">
+            <Node name="IdentityService" expanded="True">
+              <Node name="IdentityService.Infrastructure" expanded="True" />
+              <Node name="IdentityService.WebAPI" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Listening.Listening.Admin.WebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

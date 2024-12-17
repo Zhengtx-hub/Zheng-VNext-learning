@@ -1,0 +1,15 @@
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zack.ASPNETCore/bin/Debug/net6.0/Zack.ASPNETCore.deps.json
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zack.ASPNETCore/bin/Debug/net6.0/Zack.ASPNETCore.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zack.ASPNETCore/bin/Debug/net6.0/Zack.ASPNETCore.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zack.ASPNETCore/bin/Debug/net6.0/Zack.Commons.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zack.ASPNETCore/bin/Debug/net6.0/Zack.Commons.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zack.ASPNETCore/obj/Debug/net6.0/Zack.ASPNETCore.csproj.AssemblyReference.cache
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zack.ASPNETCore/obj/Debug/net6.0/Zack.ASPNETCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zack.ASPNETCore/obj/Debug/net6.0/Zack.ASPNETCore.AssemblyInfoInputs.cache
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zack.ASPNETCore/obj/Debug/net6.0/Zack.ASPNETCore.AssemblyInfo.cs
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zack.ASPNETCore/obj/Debug/net6.0/Zack.ASPNETCore.csproj.CoreCompileInputs.cache
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zack.ASPNETCore/obj/Debug/net6.0/Zack.ASP.104B8CF7.Up2Date
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zack.ASPNETCore/obj/Debug/net6.0/Zack.ASPNETCore.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zack.ASPNETCore/obj/Debug/net6.0/refint/Zack.ASPNETCore.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zack.ASPNETCore/obj/Debug/net6.0/Zack.ASPNETCore.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zack.ASPNETCore/obj/Debug/net6.0/ref/Zack.ASPNETCore.dll

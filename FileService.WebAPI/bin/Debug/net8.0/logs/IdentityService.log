@@ -1,0 +1,92 @@
+2024-12-17 11:08:42.374 +08:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1 FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA='zheng-VNext' AND TABLE_NAME='__EFMigrationsHistory';
+2024-12-17 11:08:42.396 +08:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1 FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA='zheng-VNext' AND TABLE_NAME='__EFMigrationsHistory';
+2024-12-17 11:08:42.408 +08:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `MigrationId`, `ProductVersion`
+FROM `__EFMigrationsHistory`
+ORDER BY `MigrationId`;
+2024-12-17 11:08:42.415 +08:00 [INF] Applying migration '20241217030525_Initial'.
+2024-12-17 11:08:42.438 +08:00 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER DATABASE CHARACTER SET utf8mb4;
+2024-12-17 11:08:42.453 +08:00 [INF] Executed DbCommand (14ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE `T_FS_UploadedItems` (
+    `Id` char(36) COLLATE ascii_general_ci NOT NULL,
+    `CreationTime` datetime(6) NOT NULL,
+    `FileSizeInBytes` bigint NOT NULL,
+    `FileName` varchar(1024) CHARACTER SET utf8mb4 NOT NULL,
+    `FileSHA256Hash` varchar(64) CHARACTER SET utf8mb4 NOT NULL,
+    `BackupUrl` longtext CHARACTER SET utf8mb4 NOT NULL,
+    `RemoteUrl` longtext CHARACTER SET utf8mb4 NOT NULL,
+    CONSTRAINT `PK_T_FS_UploadedItems` PRIMARY KEY (`Id`)
+) CHARACTER SET=utf8mb4;
+2024-12-17 11:08:42.461 +08:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX `IX_T_FS_UploadedItems_FileSHA256Hash_FileSizeInBytes` ON `T_FS_UploadedItems` (`FileSHA256Hash`, `FileSizeInBytes`);
+2024-12-17 11:08:42.463 +08:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO `__EFMigrationsHistory` (`MigrationId`, `ProductVersion`)
+VALUES ('20241217030525_Initial', '8.0.4');
+2024-12-17 11:51:47.920 +08:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1 FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA='zheng-VNext' AND TABLE_NAME='__EFMigrationsHistory';
+2024-12-17 11:51:47.942 +08:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1 FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA='zheng-VNext' AND TABLE_NAME='__EFMigrationsHistory';
+2024-12-17 11:51:47.950 +08:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `MigrationId`, `ProductVersion`
+FROM `__EFMigrationsHistory`
+ORDER BY `MigrationId`;
+2024-12-17 11:51:47.957 +08:00 [INF] Applying migration '20241217035113_Initial'.
+2024-12-17 11:51:47.979 +08:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER DATABASE CHARACTER SET utf8mb4;
+2024-12-17 11:51:47.985 +08:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE `T_FS_UploadedItems` (
+    `Id` char(36) COLLATE ascii_general_ci NOT NULL,
+    `CreationTime` datetime(6) NOT NULL,
+    `FileSizeInBytes` bigint NOT NULL,
+    `FileName` varchar(1024) CHARACTER SET utf8mb4 NOT NULL,
+    `FileSHA256Hash` varchar(64) CHARACTER SET utf8mb4 NOT NULL,
+    `BackupUrl` longtext CHARACTER SET utf8mb4 NOT NULL,
+    `RemoteUrl` longtext CHARACTER SET utf8mb4 NOT NULL,
+    CONSTRAINT `PK_T_FS_UploadedItems` PRIMARY KEY (`Id`)
+) CHARACTER SET=utf8mb4;
+2024-12-17 11:51:47.989 +08:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX `IX_T_FS_UploadedItems_FileSHA256Hash_FileSizeInBytes` ON `T_FS_UploadedItems` (`FileSHA256Hash`, `FileSizeInBytes`);
+2024-12-17 11:51:47.990 +08:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO `__EFMigrationsHistory` (`MigrationId`, `ProductVersion`)
+VALUES ('20241217035113_Initial', '8.0.4');
+2024-12-17 14:48:11.667 +08:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1 FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA='zheng-VNext' AND TABLE_NAME='__EFMigrationsHistory';
+2024-12-17 14:48:11.691 +08:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1 FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA='zheng-VNext' AND TABLE_NAME='__EFMigrationsHistory';
+2024-12-17 14:48:11.699 +08:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `MigrationId`, `ProductVersion`
+FROM `__EFMigrationsHistory`
+ORDER BY `MigrationId`;
+2024-12-17 14:48:11.707 +08:00 [INF] Applying migration '20241217064759_Initial'.
+2024-12-17 14:48:11.734 +08:00 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER DATABASE CHARACTER SET utf8mb4;
+2024-12-17 14:48:11.741 +08:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE `T_FS_UploadedItems` (
+    `Id` char(36) COLLATE ascii_general_ci NOT NULL,
+    `CreationTime` datetime(6) NOT NULL,
+    `FileSizeInBytes` bigint NOT NULL,
+    `FileName` varchar(1024) CHARACTER SET utf8mb4 NOT NULL,
+    `FileSHA256Hash` varchar(64) CHARACTER SET utf8mb4 NOT NULL,
+    `BackupUrl` longtext CHARACTER SET utf8mb4 NOT NULL,
+    `RemoteUrl` longtext CHARACTER SET utf8mb4 NOT NULL,
+    CONSTRAINT `PK_T_FS_UploadedItems` PRIMARY KEY (`Id`)
+) CHARACTER SET=utf8mb4;
+2024-12-17 14:48:11.750 +08:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX `IX_T_FS_UploadedItems_FileSHA256Hash_FileSizeInBytes` ON `T_FS_UploadedItems` (`FileSHA256Hash`, `FileSizeInBytes`);
+2024-12-17 14:48:11.751 +08:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO `__EFMigrationsHistory` (`MigrationId`, `ProductVersion`)
+VALUES ('20241217064759_Initial', '8.0.4');
+2024-12-17 16:32:26.153 +08:00 [INF] User profile is available. Using '/Users/zhengtianxiang/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2024-12-17 16:32:26.483 +08:00 [INF] Now listening on: https://localhost:5001
+2024-12-17 16:32:26.484 +08:00 [INF] Now listening on: http://localhost:5000
+2024-12-17 16:32:26.486 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-17 16:32:26.486 +08:00 [INF] Hosting environment: Development
+2024-12-17 16:32:26.486 +08:00 [INF] Content root path: /Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/FileService.WebAPI
+2024-12-17 16:32:26.822 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html - null null
+2024-12-17 16:32:26.895 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/index.html - 200 null text/html;charset=utf-8 74.0446ms
+2024-12-17 16:32:27.016 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - null null
+2024-12-17 16:32:27.209 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 193.5098ms
+2024-12-17 16:32:30.703 +08:00 [INF] Application is shutting down...

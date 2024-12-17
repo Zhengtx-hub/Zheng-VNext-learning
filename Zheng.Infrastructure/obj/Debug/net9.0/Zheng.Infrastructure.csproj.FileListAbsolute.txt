@@ -1,0 +1,17 @@
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.Infrastructure/bin/Debug/net9.0/Zheng.Infrastructure.deps.json
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.Infrastructure/bin/Debug/net9.0/Zheng.Infrastructure.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.Infrastructure/bin/Debug/net9.0/Zheng.Infrastructure.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.Infrastructure/bin/Debug/net9.0/Zheng.Commons.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.Infrastructure/bin/Debug/net9.0/Zheng.DomainCommons.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.Infrastructure/bin/Debug/net9.0/Zheng.Commons.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.Infrastructure/bin/Debug/net9.0/Zheng.DomainCommons.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.Infrastructure/obj/Debug/net9.0/Zheng.Infrastructure.csproj.AssemblyReference.cache
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.Infrastructure/obj/Debug/net9.0/Zheng.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.Infrastructure/obj/Debug/net9.0/Zheng.Infrastructure.AssemblyInfoInputs.cache
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.Infrastructure/obj/Debug/net9.0/Zheng.Infrastructure.AssemblyInfo.cs
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.Infrastructure/obj/Debug/net9.0/Zheng.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.Infrastructure/obj/Debug/net9.0/Zheng.In.124FB184.Up2Date
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.Infrastructure/obj/Debug/net9.0/Zheng.Infrastructure.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.Infrastructure/obj/Debug/net9.0/refint/Zheng.Infrastructure.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.Infrastructure/obj/Debug/net9.0/Zheng.Infrastructure.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.Infrastructure/obj/Debug/net9.0/ref/Zheng.Infrastructure.dll

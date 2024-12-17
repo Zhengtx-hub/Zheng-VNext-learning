@@ -1,0 +1,17 @@
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/MediaEncoder.Domain/bin/Debug/net9.0/MediaEncoder.Domain.deps.json
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/MediaEncoder.Domain/bin/Debug/net9.0/MediaEncoder.Domain.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/MediaEncoder.Domain/bin/Debug/net9.0/MediaEncoder.Domain.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/MediaEncoder.Domain/obj/Debug/net9.0/MediaEncoder.Domain.csproj.AssemblyReference.cache
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/MediaEncoder.Domain/obj/Debug/net9.0/MediaEncoder.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/MediaEncoder.Domain/obj/Debug/net9.0/MediaEncoder.Domain.AssemblyInfoInputs.cache
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/MediaEncoder.Domain/obj/Debug/net9.0/MediaEncoder.Domain.AssemblyInfo.cs
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/MediaEncoder.Domain/obj/Debug/net9.0/MediaEncoder.Domain.csproj.CoreCompileInputs.cache
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/MediaEncoder.Domain/obj/Debug/net9.0/MediaEnc.7363D7F2.Up2Date
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/MediaEncoder.Domain/obj/Debug/net9.0/MediaEncoder.Domain.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/MediaEncoder.Domain/obj/Debug/net9.0/refint/MediaEncoder.Domain.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/MediaEncoder.Domain/obj/Debug/net9.0/MediaEncoder.Domain.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/MediaEncoder.Domain/obj/Debug/net9.0/ref/MediaEncoder.Domain.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/MediaEncoder.Domain/bin/Debug/net9.0/Zheng.Commons.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/MediaEncoder.Domain/bin/Debug/net9.0/Zheng.DomainCommons.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/MediaEncoder.Domain/bin/Debug/net9.0/Zheng.Commons.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/MediaEncoder.Domain/bin/Debug/net9.0/Zheng.DomainCommons.pdb

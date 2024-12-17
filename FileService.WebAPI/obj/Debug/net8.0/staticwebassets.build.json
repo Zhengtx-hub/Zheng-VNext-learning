@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "7CVcTxLBsFPWwec266ETlRxtcQ00iuiMp90vkxKurQ8=",
+  "Source": "FileService.WebAPI",
+  "BasePath": "_content/FileService.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FileService.WebAPI/wwwroot",
+      "Source": "FileService.WebAPI",
+      "ContentRoot": "/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/FileService.WebAPI/wwwroot/",
+      "BasePath": "_content/FileService.WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/FileService.WebAPI/wwwroot/index.html",
+      "SourceId": "FileService.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/FileService.WebAPI/wwwroot/",
+      "BasePath": "_content/FileService.WebAPI",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}

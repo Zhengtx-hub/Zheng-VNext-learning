@@ -1,0 +1,80 @@
+2024-12-17 11:44:03.998 +08:00 [INF] Executed DbCommand (9ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1 FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA='zheng-VNext' AND TABLE_NAME='__EFMigrationsHistory';
+2024-12-17 11:44:04.021 +08:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1 FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA='zheng-VNext' AND TABLE_NAME='__EFMigrationsHistory';
+2024-12-17 11:44:04.028 +08:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `MigrationId`, `ProductVersion`
+FROM `__EFMigrationsHistory`
+ORDER BY `MigrationId`;
+2024-12-17 11:44:04.036 +08:00 [INF] Applying migration '20241217034101_Initial'.
+2024-12-17 11:44:04.066 +08:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER DATABASE CHARACTER SET utf8mb4;
+2024-12-17 11:44:04.076 +08:00 [INF] Executed DbCommand (9ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE `T_Albums` (
+    `Id` char(36) COLLATE ascii_general_ci NOT NULL,
+    `IsVisible` tinyint(1) NOT NULL,
+    `Name_Chinese` varchar(200) CHARACTER SET utf8mb4 NOT NULL,
+    `Name_English` varchar(200) CHARACTER SET utf8mb4 NOT NULL,
+    `SequenceNumber` int NOT NULL,
+    `CategoryId` char(36) COLLATE ascii_general_ci NOT NULL,
+    `IsDeleted` tinyint(1) NOT NULL,
+    `CreationTime` datetime(6) NOT NULL,
+    `DeletionTime` datetime(6) NULL,
+    `LastModificationTime` datetime(6) NULL,
+    CONSTRAINT `PK_T_Albums` PRIMARY KEY (`Id`)
+) CHARACTER SET=utf8mb4;
+2024-12-17 11:44:04.080 +08:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE `T_Categories` (
+    `Id` char(36) COLLATE ascii_general_ci NOT NULL,
+    `SequenceNumber` int NOT NULL,
+    `Name_Chinese` varchar(200) CHARACTER SET utf8mb4 NOT NULL,
+    `Name_English` varchar(200) CHARACTER SET utf8mb4 NOT NULL,
+    `CoverUrl` varchar(500) CHARACTER SET utf8mb4 NULL,
+    `IsDeleted` tinyint(1) NOT NULL,
+    `CreationTime` datetime(6) NOT NULL,
+    `DeletionTime` datetime(6) NULL,
+    `LastModificationTime` datetime(6) NULL,
+    CONSTRAINT `PK_T_Categories` PRIMARY KEY (`Id`)
+) CHARACTER SET=utf8mb4;
+2024-12-17 11:44:04.087 +08:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE `T_Episodes` (
+    `Id` char(36) COLLATE ascii_general_ci NOT NULL,
+    `SequenceNumber` int NOT NULL,
+    `Name_Chinese` varchar(200) CHARACTER SET utf8mb4 NOT NULL,
+    `Name_English` varchar(200) CHARACTER SET utf8mb4 NOT NULL,
+    `AlbumId` char(36) COLLATE ascii_general_ci NOT NULL,
+    `AudioUrl` varchar(1000) CHARACTER SET utf8mb4 NOT NULL,
+    `DurationInSecond` double NOT NULL,
+    `Subtitle` longtext CHARACTER SET utf8mb4 NOT NULL,
+    `SubtitleType` varchar(10) CHARACTER SET utf8mb4 NOT NULL,
+    `IsVisible` tinyint(1) NOT NULL,
+    `IsDeleted` tinyint(1) NOT NULL,
+    `CreationTime` datetime(6) NOT NULL,
+    `DeletionTime` datetime(6) NULL,
+    `LastModificationTime` datetime(6) NULL,
+    CONSTRAINT `PK_T_Episodes` PRIMARY KEY (`Id`)
+) CHARACTER SET=utf8mb4;
+2024-12-17 11:44:04.092 +08:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX `IX_T_Albums_CategoryId_IsDeleted` ON `T_Albums` (`CategoryId`, `IsDeleted`);
+2024-12-17 11:44:04.098 +08:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX `IX_T_Episodes_AlbumId_IsDeleted` ON `T_Episodes` (`AlbumId`, `IsDeleted`);
+2024-12-17 11:44:04.099 +08:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO `__EFMigrationsHistory` (`MigrationId`, `ProductVersion`)
+VALUES ('20241217034101_Initial', '8.0.4');
+2024-12-17 11:44:04.124 +08:00 [INF] Applying migration '20241217034321_init'.
+2024-12-17 11:44:04.130 +08:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO `__EFMigrationsHistory` (`MigrationId`, `ProductVersion`)
+VALUES ('20241217034321_init', '8.0.4');
+2024-12-17 11:47:50.321 +08:00 [INF] Executed DbCommand (42ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DROP DATABASE `zheng-VNext`;
+2024-12-17 16:32:42.242 +08:00 [INF] User profile is available. Using '/Users/zhengtianxiang/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2024-12-17 16:32:42.575 +08:00 [INF] Now listening on: https://localhost:5001
+2024-12-17 16:32:42.576 +08:00 [INF] Now listening on: http://localhost:5000
+2024-12-17 16:32:42.578 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-17 16:32:42.578 +08:00 [INF] Hosting environment: Development
+2024-12-17 16:32:42.578 +08:00 [INF] Content root path: /Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/Listening.Admin.WebAPI
+2024-12-17 16:32:42.879 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html - null null
+2024-12-17 16:32:42.962 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/index.html - 200 null text/html;charset=utf-8 83.7434ms
+2024-12-17 16:32:43.102 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - null null
+2024-12-17 16:32:43.294 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 192.5149ms
+2024-12-17 16:32:47.773 +08:00 [INF] Application is shutting down...

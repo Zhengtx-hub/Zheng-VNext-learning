@@ -1,0 +1,11 @@
+2024-12-17 15:08:43.004 +08:00 [INF] User profile is available. Using '/Users/zhengtianxiang/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2024-12-17 15:08:43.355 +08:00 [INF] Now listening on: https://localhost:5001
+2024-12-17 15:08:43.355 +08:00 [INF] Now listening on: http://localhost:5000
+2024-12-17 15:08:43.358 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-17 15:08:43.358 +08:00 [INF] Hosting environment: Development
+2024-12-17 15:08:43.358 +08:00 [INF] Content root path: /Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/IdentityService.WebAPI
+2024-12-17 15:08:43.991 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html - null null
+2024-12-17 15:08:44.076 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/index.html - 200 null text/html;charset=utf-8 85.8924ms
+2024-12-17 15:08:44.220 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - null null
+2024-12-17 15:08:44.427 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 206.3566ms
+2024-12-17 15:18:15.515 +08:00 [INF] Application is shutting down...

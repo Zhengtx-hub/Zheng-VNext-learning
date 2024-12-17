@@ -1,0 +1,17 @@
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Listening.Domain/bin/Debug/net9.0/Listening.Domain.deps.json
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Listening.Domain/bin/Debug/net9.0/Listening.Domain.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Listening.Domain/bin/Debug/net9.0/Listening.Domain.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Listening.Domain/bin/Debug/net9.0/Zheng.Commons.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Listening.Domain/bin/Debug/net9.0/Zheng.DomainCommons.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Listening.Domain/bin/Debug/net9.0/Zheng.Commons.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Listening.Domain/bin/Debug/net9.0/Zheng.DomainCommons.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Listening.Domain/obj/Debug/net9.0/Listening.Domain.csproj.AssemblyReference.cache
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Listening.Domain/obj/Debug/net9.0/Listening.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Listening.Domain/obj/Debug/net9.0/Listening.Domain.AssemblyInfoInputs.cache
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Listening.Domain/obj/Debug/net9.0/Listening.Domain.AssemblyInfo.cs
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Listening.Domain/obj/Debug/net9.0/Listening.Domain.csproj.CoreCompileInputs.cache
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Listening.Domain/obj/Debug/net9.0/Listenin.FD0BBF2C.Up2Date
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Listening.Domain/obj/Debug/net9.0/Listening.Domain.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Listening.Domain/obj/Debug/net9.0/refint/Listening.Domain.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Listening.Domain/obj/Debug/net9.0/Listening.Domain.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Listening.Domain/obj/Debug/net9.0/ref/Listening.Domain.dll

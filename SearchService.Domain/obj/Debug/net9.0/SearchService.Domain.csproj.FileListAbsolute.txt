@@ -1,0 +1,11 @@
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/SearchService.Domain/bin/Debug/net9.0/SearchService.Domain.deps.json
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/SearchService.Domain/bin/Debug/net9.0/SearchService.Domain.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/SearchService.Domain/bin/Debug/net9.0/SearchService.Domain.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/SearchService.Domain/obj/Debug/net9.0/SearchService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/SearchService.Domain/obj/Debug/net9.0/SearchService.Domain.AssemblyInfoInputs.cache
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/SearchService.Domain/obj/Debug/net9.0/SearchService.Domain.AssemblyInfo.cs
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/SearchService.Domain/obj/Debug/net9.0/SearchService.Domain.csproj.CoreCompileInputs.cache
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/SearchService.Domain/obj/Debug/net9.0/SearchService.Domain.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/SearchService.Domain/obj/Debug/net9.0/refint/SearchService.Domain.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/SearchService.Domain/obj/Debug/net9.0/SearchService.Domain.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/SearchService.Domain/obj/Debug/net9.0/ref/SearchService.Domain.dll

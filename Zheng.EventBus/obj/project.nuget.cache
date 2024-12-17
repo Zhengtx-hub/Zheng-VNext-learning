@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "5dgQTUpF84c=",
+  "success": true,
+  "projectFilePath": "/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/Zheng.EventBus/Zheng.EventBus.csproj",
+  "expectedPackageFiles": [
+    "/Users/zhengtianxiang/.nuget/packages/asmresolver/4.11.2/asmresolver.4.11.2.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/asmresolver.dotnet/4.11.2/asmresolver.dotnet.4.11.2.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/asmresolver.pe/4.11.2/asmresolver.pe.4.11.2.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/asmresolver.pe.file/4.11.2/asmresolver.pe.file.4.11.2.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/dynamic.json/1.3.0/dynamic.json.1.3.0.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/fluentvalidation/11.11.0/fluentvalidation.11.11.0.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/microsoft.aspnetcore.http.abstractions/2.2.0/microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/microsoft.aspnetcore.http.features/2.2.0/microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/rabbitmq.client/6.2.2/rabbitmq.client.6.2.2.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/system.text.json/6.0.4/system.text.json.6.0.4.nupkg.sha512",
+    "/Users/zhengtianxiang/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

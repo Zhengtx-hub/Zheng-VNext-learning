@@ -1,0 +1,12 @@
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.DomainCommons/bin/Debug/net9.0/Zheng.DomainCommons.deps.json
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.DomainCommons/bin/Debug/net9.0/Zheng.DomainCommons.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.DomainCommons/bin/Debug/net9.0/Zheng.DomainCommons.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.DomainCommons/obj/Debug/net9.0/Zheng.DomainCommons.csproj.AssemblyReference.cache
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.DomainCommons/obj/Debug/net9.0/Zheng.DomainCommons.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.DomainCommons/obj/Debug/net9.0/Zheng.DomainCommons.AssemblyInfoInputs.cache
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.DomainCommons/obj/Debug/net9.0/Zheng.DomainCommons.AssemblyInfo.cs
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.DomainCommons/obj/Debug/net9.0/Zheng.DomainCommons.csproj.CoreCompileInputs.cache
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.DomainCommons/obj/Debug/net9.0/Zheng.DomainCommons.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.DomainCommons/obj/Debug/net9.0/refint/Zheng.DomainCommons.dll
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.DomainCommons/obj/Debug/net9.0/Zheng.DomainCommons.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/Zheng.DomainCommons/obj/Debug/net9.0/ref/Zheng.DomainCommons.dll

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Ba6ngfXDiYoVqYt1y2e40h6bJuilDLdScqeWUtnmBxU=",
+  "Source": "SearchService.WebAPI",
+  "BasePath": "_content/SearchService.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

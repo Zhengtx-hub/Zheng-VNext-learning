@@ -1,0 +1,17 @@
+/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/FileService.SDK.NETCore/bin/Debug/net8.0/FileService.SDK.NETCore.deps.json
+/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/FileService.SDK.NETCore/bin/Debug/net8.0/FileService.SDK.NETCore.dll
+/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/FileService.SDK.NETCore/bin/Debug/net8.0/FileService.SDK.NETCore.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/FileService.SDK.NETCore/bin/Debug/net8.0/Zheng.Commons.dll
+/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/FileService.SDK.NETCore/bin/Debug/net8.0/Zheng.JWT.dll
+/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/FileService.SDK.NETCore/bin/Debug/net8.0/Zheng.Commons.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/FileService.SDK.NETCore/bin/Debug/net8.0/Zheng.JWT.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/FileService.SDK.NETCore/obj/Debug/net8.0/FileService.SDK.NETCore.csproj.AssemblyReference.cache
+/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/FileService.SDK.NETCore/obj/Debug/net8.0/FileService.SDK.NETCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/FileService.SDK.NETCore/obj/Debug/net8.0/FileService.SDK.NETCore.AssemblyInfoInputs.cache
+/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/FileService.SDK.NETCore/obj/Debug/net8.0/FileService.SDK.NETCore.AssemblyInfo.cs
+/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/FileService.SDK.NETCore/obj/Debug/net8.0/FileService.SDK.NETCore.csproj.CoreCompileInputs.cache
+/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/FileService.SDK.NETCore/obj/Debug/net8.0/FileServ.3393C3CE.Up2Date
+/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/FileService.SDK.NETCore/obj/Debug/net8.0/FileService.SDK.NETCore.dll
+/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/FileService.SDK.NETCore/obj/Debug/net8.0/refint/FileService.SDK.NETCore.dll
+/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/FileService.SDK.NETCore/obj/Debug/net8.0/FileService.SDK.NETCore.pdb
+/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/FileService.SDK.NETCore/obj/Debug/net8.0/ref/FileService.SDK.NETCore.dll

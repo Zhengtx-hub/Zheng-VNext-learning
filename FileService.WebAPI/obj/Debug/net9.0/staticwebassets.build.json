@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "foIzw9LUoWpc7uKN4GHlaoZUIsUyszp0yOBmfZM44As=",
+  "Source": "FileService.WebAPI",
+  "BasePath": "_content/FileService.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FileService.WebAPI/wwwroot",
+      "Source": "FileService.WebAPI",
+      "ContentRoot": "/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/FileService.WebAPI/wwwroot/",
+      "BasePath": "_content/FileService.WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/FileService.WebAPI/obj/Debug/net9.0/compressed/ibijrmn355-dyh98hprla.gz",
+      "SourceId": "FileService.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/FileService.WebAPI/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/FileService.WebAPI",
+      "RelativePath": "index#[.{fingerprint=dyh98hprla}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/FileService.WebAPI/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6837to55a5",
+      "Integrity": "6sYjRxLJt3P+f4LQ9RioJEXyoK/N2t4ysjryolWdcX0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/FileService.WebAPI/wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/FileService.WebAPI/wwwroot/index.html",
+      "SourceId": "FileService.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/FileService.WebAPI/wwwroot/",
+      "BasePath": "_content/FileService.WebAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dyh98hprla",
+      "Integrity": "2wBBOfNd3N78F0n170RZ54qrazTEQdvtK33OtOk72/A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.dyh98hprla.html",
+      "AssetFile": "/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/FileService.WebAPI/obj/Debug/net9.0/compressed/ibijrmn355-dyh98hprla.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.037037037037"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6sYjRxLJt3P+f4LQ9RioJEXyoK/N2t4ysjryolWdcX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 May 2023 12:46:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2wBBOfNd3N78F0n170RZ54qrazTEQdvtK33OtOk72/A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dyh98hprla"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2wBBOfNd3N78F0n170RZ54qrazTEQdvtK33OtOk72/A="
+        }
+      ]
+    },
+    {
+      "Route": "index.dyh98hprla.html",
+      "AssetFile": "/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/FileService.WebAPI/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2wBBOfNd3N78F0n170RZ54qrazTEQdvtK33OtOk72/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 May 2023 12:46:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dyh98hprla"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2wBBOfNd3N78F0n170RZ54qrazTEQdvtK33OtOk72/A="
+        }
+      ]
+    },
+    {
+      "Route": "index.dyh98hprla.html.gz",
+      "AssetFile": "/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/FileService.WebAPI/obj/Debug/net9.0/compressed/ibijrmn355-dyh98hprla.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6sYjRxLJt3P+f4LQ9RioJEXyoK/N2t4ysjryolWdcX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 May 2023 12:46:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dyh98hprla"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6sYjRxLJt3P+f4LQ9RioJEXyoK/N2t4ysjryolWdcX0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/FileService.WebAPI/obj/Debug/net9.0/compressed/ibijrmn355-dyh98hprla.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.037037037037"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6sYjRxLJt3P+f4LQ9RioJEXyoK/N2t4ysjryolWdcX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 May 2023 12:46:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2wBBOfNd3N78F0n170RZ54qrazTEQdvtK33OtOk72/A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2wBBOfNd3N78F0n170RZ54qrazTEQdvtK33OtOk72/A="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/FileService.WebAPI/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2wBBOfNd3N78F0n170RZ54qrazTEQdvtK33OtOk72/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 May 2023 12:46:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2wBBOfNd3N78F0n170RZ54qrazTEQdvtK33OtOk72/A="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/Users/zhengtianxiang/Documents/Study/Tech/C#/project/study-English/FileService.WebAPI/obj/Debug/net9.0/compressed/ibijrmn355-dyh98hprla.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6sYjRxLJt3P+f4LQ9RioJEXyoK/N2t4ysjryolWdcX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 May 2023 12:46:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6sYjRxLJt3P+f4LQ9RioJEXyoK/N2t4ysjryolWdcX0="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Zheng.Commons</id>
+    <version>1.1.11</version>
+    <authors>Zack Yang</authors>
+    <projectUrl>https://github.com/yangzhongke/NETBookMaterials</projectUrl>
+    <description>Package Description</description>
+    <repository type="git" url="https://github.com/yangzhongke/NETBookMaterials" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="AsmResolver.DotNet" version="4.11.2" exclude="Build,Analyzers" />
+        <dependency id="FluentValidation" version="11.11.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging.Abstractions" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/zhengtianxiang/Documents/Study/Tech/dotnet/project/study-English/Zheng.Commons/bin/Debug/net8.0/Zheng.Commons.dll" target="lib/net8.0/Zheng.Commons.dll" />
+  </files>
+</package>
