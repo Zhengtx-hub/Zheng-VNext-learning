@@ -2,7 +2,6 @@
 using Microsoft.Extensions.Options;
 using Nest;
 using SearchService.Domain;
-using SearchService.WebAPI.Options;
 using Zack.Commons;
 
 namespace SearchService.Infrastructure
@@ -15,7 +14,8 @@ namespace SearchService.Infrastructure
             services.AddScoped<IElasticClient>(sp =>
             {
                 var option = sp.GetRequiredService<IOptions<ElasticSearchOptions>>();
-                var settings = new ConnectionSettings(option.Value.Url);
+                // var settings = new ConnectionSettings(option.Value.Url);
+                var settings = new ConnectionSettings(new Uri(option.Value.Url));
                 return new ElasticClient(settings);
             });
             services.AddScoped<ISearchRepository, SearchRepository>();

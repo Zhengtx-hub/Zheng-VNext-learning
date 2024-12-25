@@ -1,6 +1,7 @@
 ﻿
-namespace SearchService.WebAPI.Options;
+namespace SearchService.Infrastructure;
 public class ElasticSearchOptions
 {
-    public Uri Url { get; set; }
+    public string? Url { get; set; }
+    public string? EpisodeIndex { get; set; }
 }

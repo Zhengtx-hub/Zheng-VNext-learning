@@ -10,10 +10,10 @@ namespace IdentityService.Infrastructure
     {
         private readonly IIdRepository repository;
         private readonly ITokenService tokenService;
-        private readonly IOptions<JWTOptions> optJWT;
+        private readonly IOptions<JwtOptions> optJWT;
 
         public IdDomainService(IIdRepository repository,
-             ITokenService tokenService, IOptions<JWTOptions> optJWT)
+             ITokenService tokenService, IOptions<JwtOptions> optJWT)
         {
             this.repository = repository;
             this.tokenService = tokenService;

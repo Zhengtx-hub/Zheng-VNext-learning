@@ -28,7 +28,7 @@ public class EncodingBgService : BackgroundService
     private readonly IOptionsSnapshot<FileServiceOptions> optionFileService;
     private readonly IServiceScope serviceScope;
     private readonly IEventBus eventBus;
-    private readonly IOptionsSnapshot<JWTOptions> optionJWT;
+    private readonly IOptionsSnapshot<JwtOptions> optionJWT;
     private readonly ITokenService tokenService;
 
     public EncodingBgService(IServiceScopeFactory spf)
@@ -45,7 +45,7 @@ public class EncodingBgService : BackgroundService
         this.encoderFactory = sp.GetRequiredService<MediaEncoderFactory>();
         this.optionFileService = sp.GetRequiredService<IOptionsSnapshot<FileServiceOptions>>();
         this.eventBus = sp.GetRequiredService<IEventBus>();
-        this.optionJWT = sp.GetRequiredService<IOptionsSnapshot<JWTOptions>>();
+        this.optionJWT = sp.GetRequiredService<IOptionsSnapshot<JwtOptions>>();
         this.tokenService = sp.GetRequiredService<ITokenService>();
         this.repository = sp.GetRequiredService<IMediaEncoderRepository>();
     }

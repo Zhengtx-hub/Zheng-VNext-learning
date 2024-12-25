@@ -16,7 +16,7 @@ namespace CommonInitializer
                 .SetBasePath(Directory.GetCurrentDirectory()) // load dir
                 .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true) // read appsettings.json
                 .Build();
-            var connStr = configuration.GetConnectionString("DefaultDB:ConnStr");
+            var connStr = configuration.GetConnectionString("DefaultDB");
             var optionsBuilder = new DbContextOptionsBuilder<TDbContext>();
             // optionsBuilder(connStr, ServerVersion.AutoDetect(connStr));
             optionsBuilder.UseMySql(connStr, ServerVersion.AutoDetect(connStr));

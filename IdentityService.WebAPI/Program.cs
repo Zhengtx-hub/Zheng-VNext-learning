@@ -14,7 +14,7 @@ using Microsoft.Extensions.Hosting;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-// 加载配置文件
+// load  files
 builder.Configuration.AddJsonFile("appsettings.identity.json", optional: false, reloadOnChange: true);
 builder.Configuration.AddJsonFile($"appsettings.{builder.Environment.EnvironmentName}.json", optional: true);
 builder.Services.AddDbContext<IdDbContext>(options =>
@@ -38,9 +38,7 @@ builder.Services.AddSwaggerGen(c =>
 });
 
 builder.Services.AddDataProtection();
-//��¼��ע�����Ŀ����Ҫ����WebApplicationBuilderExtensions�еĳ�ʼ��֮�⣬��Ҫ���µĳ�ʼ��
-//��Ҫ��AddIdentity��������AddIdentityCore
-//��Ϊ��AddIdentity�ᵼ��JWT���Ʋ������ã�AddJwtBearer�лص����ᱻִ�У��������AuthenticationУ��ʧ��
+
 //https://github.com/aspnet/Identity/issues/1376
 IdentityBuilder idBuilder = builder.Services.AddIdentityCore<User>(options =>
     {

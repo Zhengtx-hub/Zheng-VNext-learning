@@ -5,6 +5,6 @@ namespace Zack.JWT
 {
     public interface ITokenService
     {
-        string BuildToken(IEnumerable<Claim> claims, JWTOptions options);
+        string BuildToken(IEnumerable<Claim> claims, JwtOptions options);
     }
 }

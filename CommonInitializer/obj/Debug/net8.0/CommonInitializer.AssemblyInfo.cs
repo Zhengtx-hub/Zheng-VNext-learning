@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CommonInitializer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80e142e0b2979691d85316e7205ea8351fdce5b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("CommonInitializer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CommonInitializer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

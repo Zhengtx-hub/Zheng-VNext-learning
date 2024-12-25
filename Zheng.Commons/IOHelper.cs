@@ -21,9 +21,9 @@ namespace Zack.Commons
             return ms.ToArray();
         }
 
-        public static void CreateDir(FileInfo file)
+        public static void CreateDir(FileInfo? file)
         {
-            file.Directory.Create();
+            if (file.Directory != null) file.Directory.Create();
         }
     }
 }

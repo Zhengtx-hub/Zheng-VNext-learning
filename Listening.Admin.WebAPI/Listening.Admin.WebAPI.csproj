@@ -19,7 +19,7 @@
 		<ProjectReference Include="..\CommonInitializer\CommonInitializer.csproj" />
 		<ProjectReference Include="..\Listening.Domain\Listening.Domain.csproj" />
 		<ProjectReference Include="..\Listening.Infrastructure\Listening.Infrastructure.csproj" />
-
+		<PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
 	</ItemGroup>
 
 </Project>

@@ -15,7 +15,7 @@
 	<ItemGroup>
 	 	 <ProjectReference Include="..\MediaEncoder.Domain\MediaEncoder.Domain.csproj" />
 		<ProjectReference Include="..\Zheng.Infrastructure\Zheng.Infrastructure.csproj" />
-		<ProjectReference Include="..\Zheng.DomainCommons\Zheng.EventBus.csproj" />
+		<ProjectReference Include="..\Zheng.EventBus\Zheng.EventBus.csproj" />
   </ItemGroup>
 	
 	

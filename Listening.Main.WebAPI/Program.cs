@@ -1,3 +1,4 @@
+using System.IO;
 using CommonInitializer;
 using MediatR;
 using Microsoft.AspNetCore.Builder;
@@ -16,6 +17,12 @@ builder.Services.AddDbContext<ListeningDbContext>(options =>
     options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
 });
 builder.Services.AddMediatR(typeof(ListeningDbContext).Assembly); 
+var logFilePath = Path.Combine(AppContext.BaseDirectory, "logs", "listening.admin.log");
+builder.ConfigureExtraServices(new InitializerOptions
+{
+    EventBusQueueName = "IdentityService.WebAPI",
+    LogFilePath = logFilePath
+});
 // Add services to the container.
 //builder.Services.AddScoped<IListeningRepository, ListeningRepository>();
 builder.Services.AddControllers();

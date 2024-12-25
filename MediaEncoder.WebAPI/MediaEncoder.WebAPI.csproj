@@ -22,7 +22,7 @@
     <ProjectReference Include="..\MediaEncoder.Domain\MediaEncoder.Domain.csproj" />
     <ProjectReference Include="..\MediaEncoder.Infrastructure\MediaEncoder.Infrastructure.csproj" />
     <ProjectReference Include="..\Zheng.Commons\Zheng.Commons.csproj"/>
-    <ProjectReference Include="..\Zheng.EvenBus\Zheng.EventBus.csproj"/>
+      <ProjectReference Include="..\Zheng.EventBus\Zheng.EventBus.csproj" />
     <ProjectReference Include="..\Zheng.JWT\Zheng.JWT.csproj"/>
   </ItemGroup>
 

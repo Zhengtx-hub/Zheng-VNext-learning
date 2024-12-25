@@ -8,7 +8,7 @@ namespace Zack.JWT
 {
     public static class AuthenticationExtensions
     {
-        public static AuthenticationBuilder AddJWTAuthentication(this IServiceCollection services, JWTOptions? jwtOpt)
+        public static AuthenticationBuilder AddJWTAuthentication(this IServiceCollection services, JwtOptions? jwtOpt)
         {
             return services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             .AddJwtBearer(x =>

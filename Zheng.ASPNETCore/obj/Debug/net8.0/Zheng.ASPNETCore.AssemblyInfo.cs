@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zheng")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.2.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+80e142e0b2979691d85316e7205ea8351fdce5b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zheng.ASPNETCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zheng.ASPNETCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.2.0")]

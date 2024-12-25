@@ -25,7 +25,7 @@ builder.ConfigureExtraServices(new InitializerOptions
 });
 
 builder.Services.Configure<FileServiceOptions>(builder.Configuration.GetSection("FileService:Endpoint"));
-builder.Services.Configure<JWTOptions>(builder.Configuration.GetSection("JWT"));
+builder.Services.Configure<JwtOptions>(builder.Configuration.GetSection("JWT"));
 builder.Services.AddHttpClient();
 builder.Services.AddHostedService<EncodingBgService>();//后台转码服务
 builder.Services.AddMediatR(typeof(MEDbContext).Assembly); 

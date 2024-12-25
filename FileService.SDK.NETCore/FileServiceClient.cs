@@ -13,10 +13,10 @@ namespace FileService.SDK.NETCore
     {
         private readonly IHttpClientFactory httpClientFactory;
         private readonly Uri serverRoot;
-        private readonly JWTOptions optionsSnapshot;
+        private readonly JwtOptions optionsSnapshot;
         private readonly ITokenService tokenService;
 
-        public FileServiceClient(IHttpClientFactory httpClientFactory, Uri serverRoot, JWTOptions optionsSnapshot, ITokenService tokenService)
+        public FileServiceClient(IHttpClientFactory httpClientFactory, Uri serverRoot, JwtOptions optionsSnapshot, ITokenService tokenService)
         {
             this.httpClientFactory = httpClientFactory;
             this.serverRoot = serverRoot;

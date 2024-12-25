@@ -33,7 +33,7 @@ namespace CommonInitializer
                     .SetBasePath(Directory.GetCurrentDirectory()) // load dir
                     .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true) // read appsettings.json
                     .Build();
-                var connStr = configuration.GetConnectionString("DefaultDB:ConnStr");
+                var connStr = configuration.GetConnectionString("DefaultDB");
                 configBuilder.AddDbConfiguration(() => new SqlConnection(connStr), reloadOnChange: true, reloadInterval: TimeSpan.FromSeconds(5));
             });
             
@@ -64,7 +64,7 @@ namespace CommonInitializer
             //IdentityService项目还需要启用AddIdentityCore
             builder.Services.AddAuthorization();
             builder.Services.AddAuthentication();
-            JWTOptions? jwtOpt = configuration.GetSection("JWT").Get<JWTOptions>();
+            JwtOptions? jwtOpt = configuration.GetSection("JWT").Get<JwtOptions>();
             builder.Services.AddJWTAuthentication(jwtOpt);
             //启用Swagger中的【Authorize】按钮。这样就不用每个项目的AddSwaggerGen中单独配置了
             builder.Services.Configure<SwaggerGenOptions>(c =>
@@ -108,7 +108,7 @@ namespace CommonInitializer
             {                
                 fv.RegisterValidatorsFromAssemblies(assemblies);
             });
-            services.Configure<JWTOptions>(configuration.GetSection("JWT"));
+            services.Configure<JwtOptions>(configuration.GetSection("JWT"));
             services.Configure<IntegrationEventRabbitMQOptions>(configuration.GetSection("RabbitMQ"));
             var rabbitMQSection = configuration.GetSection("RabbitMQ");
             // Console.WriteLine(rabbitMQSection["HostName"]);

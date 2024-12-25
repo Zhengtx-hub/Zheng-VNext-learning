@@ -6,13 +6,13 @@
   </PropertyGroup>
   
   <ItemGroup>
-      <ProjectReference Include="Microsoft.Extensions.DependencyInjection.Abstrations" Version="8.0.1"/>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.1" />
   </ItemGroup>
   
   <ItemGroup>
     <ProjectReference Include="..\Zheng.Commons\Zheng.Commons.csproj" />
     <ProjectReference Include="..\Zheng.DomainCommons\Zheng.DomainCommons.csproj" />
-    <ProjectReference Include="..\Zheng.DomainCommons\Zheng.EventBus.csproj" />
+    <ProjectReference Include="..\Zheng.EventBus\Zheng.EventBus.csproj" />
   </ItemGroup>
 
 </Project>

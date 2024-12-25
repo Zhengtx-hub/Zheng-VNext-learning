@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zack Yang")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.11.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.11")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.11+80e142e0b2979691d85316e7205ea8351fdce5b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zheng.Commons")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zheng.Commons")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.1.11.0")]

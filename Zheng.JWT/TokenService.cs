@@ -9,7 +9,7 @@ namespace Zack.JWT
 {
     public class TokenService : ITokenService
     {
-        public string BuildToken(IEnumerable<Claim> claims, JWTOptions options)
+        public string BuildToken(IEnumerable<Claim> claims, JwtOptions options)
         {
             TimeSpan ExpiryDuration = TimeSpan.FromSeconds(options.ExpireSeconds);
             var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(options.Key));
