@@ -298,7 +298,9 @@ server {
         }               
 ```
 
-Start six microservices, and the Swagger pages will open automatically：
+**1.Start six microservices, and the Swagger pages will open automatically：**
+![listening](https://github.com/Zhengtx-hub/Zheng-VNext-learning/blob/main/pictures/startup.png)
+**2.Next is an example of a Swagger page.**
 
 IdentityServer:
 ![listening](https://github.com/Zhengtx-hub/Zheng-VNext-learning/blob/main/pictures/IdentityService.png)
@@ -310,12 +312,8 @@ FileService:
 SearchService:
 ![listening](https://github.com/Zhengtx-hub/Zheng-VNext-learning/blob/main/pictures/SearchService.png)
 
+**3.Example for Web pages**
 
-Next is an example of a Swagger page.
-
-
-
-Example for Web pages
 
 
 
