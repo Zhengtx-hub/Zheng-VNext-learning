@@ -1,6 +1,6 @@
 **Online English Learning Website Microservices Project**
 
-
+![listening](https://github.com/Zhengtx-hub/Zheng-VNext-learning/blob/main/pictures/infrastructure.png)
 
 **Project Overview**
 
@@ -300,6 +300,15 @@ server {
 
 Start six microservices, and the Swagger pages will open automatically：
 
+IdentityServer:
+![listening](https://github.com/Zhengtx-hub/Zheng-VNext-learning/blob/main/pictures/IdentityService.png)
+ListeningService(admin&user):
+![listening](https://github.com/Zhengtx-hub/Zheng-VNext-learning/blob/main/pictures/ListeningService.png)
+![listening](https://github.com/Zhengtx-hub/Zheng-VNext-learning/blob/main/pictures/Listeningmain.png)
+FileService:
+![listening](https://github.com/Zhengtx-hub/Zheng-VNext-learning/blob/main/pictures/FileService.png)
+SearchService:
+![listening](https://github.com/Zhengtx-hub/Zheng-VNext-learning/blob/main/pictures/SearchService.png)
 
 
 Next is an example of a Swagger page.
